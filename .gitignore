@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+/*/build/
+
+# Local configuration
+local.properties
+gradle.properties
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+
+# Android Studio / IntelliJ captures
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Tests
+/app/src/androidTest/
+/app/src/test/
